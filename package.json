@@ -1,0 +1,15 @@
+{
+  "name": "memoreverse",
+  "version": "1.0.0",
+  "description": "Reverse engineering lib tool",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo Look \"./examples\" folder to find tests"
+  },
+  "author": "Mathieu Colmon (usp-3.fr)",
+  "license": "ISC",
+  "dependencies": {
+    "memoryjs": "^3.4.0",
+    "iohook": "^0.6.6"
+  }
+}
